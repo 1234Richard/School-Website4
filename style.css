@@ -1,0 +1,88 @@
+body {
+    color: cornflowerblue;
+    text-align: center;
+        
+}
+html {
+    scroll-behavior: smooth;
+}
+#White-hat-jr {
+    height: 400px;
+}
+#Schoolname  {
+    background-color: bisque
+}
+#Principle {
+    height: 300;
+}    
+#CarouselImg {
+   width: 100%;
+      
+}
+.School_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.School_head i {
+    float: right;
+}
+.what_new_li {
+    margin-top: 13px;
+    border-radius: 90px;
+   
+}
+.what_new_li h4{
+    border-bottom: 1px solid green;
+    padding: 8px;
+}
+.what_new_li img {
+    border-radius: 25px;
+}
+.what_new_li p {
+    margin-top: 10px;
+}
+#myNavbar {
+    overflow: hidden;
+    background-color: #333;
+}
+#myNavbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+.content {
+    padding: 16px;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.sticky + .content {
+    padding-top: 60px;
+}
+.book {
+    cursor: pointer;
+}
+.book hr {
+    margin-bottom: 10px;
+}
+.modal-content {
+    margin-top: 100px;
+}
+.img_modal {
+    display: inline-block;
+}
+.modal-body {
+    text-align: center;
+}
+.img_modal {
+    width: 400px;
+}
+#img_modal {
+}
